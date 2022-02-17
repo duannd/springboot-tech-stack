@@ -22,5 +22,10 @@ This project to study & make examples about Spring Boot & related Technology.
       - Provide a range of non-functional features that are common to large classes of projects (such as embedded servers, security, metrics, health checks, and externalized configuration).
       - Absolutely no code generation and no requirement for XML configuration.
 
+2. Creating an Executable Jar
+   - mvn package 
+   - jar tvf target/myproject-0.0.1-SNAPSHOT.jar # to peek inside.
+   - java -jar target/myproject-0.0.1-SNAPSHOT.jar
+
 
 
