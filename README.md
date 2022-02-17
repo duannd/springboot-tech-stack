@@ -1,8 +1,12 @@
-# SpringBoot Technology Stack
+# SpringBoot Technology Stack - Documentation
+```
+This project to study & make examples about Spring Boot & related Technology.
+```
 
-# SpringBoot Web Servlet example
+## OS & Software Requirements
+- Mac OSX
+- JDK 17
+- Spring Boot 2.6.3 
 
-1. Reference Doc [Web Servlet](./springboot-web-servlet/README.md)
 
-# Quartz examples
 
