@@ -10,6 +10,7 @@
     <modules>
         <module>springboot-web-servlet</module>
         <module>springboot-quartz</module>
+        <module>springboot</module>
     </modules>
 
     <packaging>pom</packaging>

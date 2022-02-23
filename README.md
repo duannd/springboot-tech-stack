@@ -27,5 +27,16 @@ This project to study & make examples about Spring Boot & related Technology.
    - jar tvf target/myproject-0.0.1-SNAPSHOT.jar # to peek inside.
    - java -jar target/myproject-0.0.1-SNAPSHOT.jar
 
+3. Installing the Spring Boot CLI
+   - Download spring-boot-cli-x.x.x-bin.zip & unzip
+   - Add SPRING_HOME env
+   - Shell auto-completion scripts are provided for BASH and ZSH. Add symlinks to the appropriate location for your environment.
+     - ln -s ./shell-completion/zsh/_spring /usr/local/share/zsh/site-functions/_spring
+   - Checking Your Installation
+     - spring --version
+
+## Core Features
+- [SpringBoot Application](./springboot/README.md) 
+   
 
 
